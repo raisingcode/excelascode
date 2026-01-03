@@ -18,5 +18,8 @@ No. But many team still require the need to deploy vms in admin state. This wher
    - Export as ARM template
 
  ## Features requested (not yet implemented)
- - Service Principal 
+ - Service Principal
+ - Use Keyvault or Hashicorp vault to store passwords
+ - Multicloud suppport
+   - Azure is currently implemented at the time but with interest it could be updated for other cloud providers (AWS, GCP, etc.)
 
