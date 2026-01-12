@@ -14,8 +14,9 @@ Many teams still require a way to deploy vms in bulk fashion. This is where the 
 ✅ Office 365 Desktop
 
  ## Capabilities
- - Quota checker
- - Create vms or use an existing
+ - Quota checker for available vcpu capability before deploying
+ - Region specific skus
+ - Support for Azure Public (AWS or GCP could available in future releases)
  - Deployment options
    - Deploy directly into azure via api
    - Export as terraform
@@ -23,6 +24,7 @@ Many teams still require a way to deploy vms in bulk fashion. This is where the 
 
  ## Features requested (not yet implemented)
  - Service Principal integration
+ - Multi-az configuration
  - Use Keyvault or Hashicorp vault to store passwords
  - Multicloud suppport
    - Azure is currently implemented at the time but with interest it could be updated for other cloud providers (AWS, GCP, etc.)
