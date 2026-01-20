@@ -1,10 +1,11 @@
-v# excelascode v1.3
+# excelascode v1.3
 
-<img src="assets/banner.png" alt="excel-as-code-banner" width="100%">
 
 [![Version](https://img.shields.io/badge/version-1.3-blue.svg)](https://github.com/raisingcode/excelascode)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Excel_Windows-success.svg)]()
+
+<img width="1600" height="524" alt="excel-as-code" src="https://github.com/user-attachments/assets/6da9af9e-0425-41f0-bacb-ef16932c23e3" />
 
 **The bridge between "Right Click -> Deploy" and "Infrastructure as Code."**
 
