@@ -66,10 +66,8 @@ Most "low-code" tools require heavy installation or complex prerequisites. Excel
 
 ---
 
-## 🛠️ Prerequisites
-
-* **OS:** Windows 10/11 (Required for ActiveX/VBA support).
-* **Software:** Microsoft Excel 2016, 2019, or O365 Desktop.
+## 🛠️ Tested Configuration
+* **Software:** Microsoft Excel 2016, 2019, or O365 Desktop on Windows
 * **Network:** Outbound HTTPS (Port 443) access to `management.azure.com`.
 * **Identity:** A Microsoft Entra ID (Azure AD) account with `Contributor` (or equivalent) rights on the target Subscription.
 
