@@ -127,5 +127,9 @@ We welcome contributions! Whether you're fixing a VBA bug, adding a new Bicep te
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
 *Built with ❤️ (and VBA) by [RaisingCode](https://github.com/raisingcode)*
+<br />
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/mlkglid8hxeugkd7r7cm" alt="trackgit-views" />
+</a>
