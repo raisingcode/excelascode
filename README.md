@@ -33,8 +33,7 @@ Most "low-code" tools require heavy installation or complex prerequisites. Excel
 * **The "Bridge" Workflow:** Use Excel for rapid prototyping and scaffolding. Once the architecture is agreed upon, hit "Export" to generate clean Terraform or Bicep code to hand off to your DevOps team.
 * **Safety First:** Includes a built-in **Quota Checker**. The tool checks your subscription limits *before* trying to deploy, saving you from failed pipelines and half-baked resource groups.
 
-<img src="https://github.com/raisingcode/excelascode/blob/main/excelascodesmall_ag_1.gif" />
-
+<img src="https://raw.githubusercontent.com/raisingcode/excelascode/main/excelascodesmall_ag_1.gif" />
 ---
 
 ## 📥 Installation & Security Setup
